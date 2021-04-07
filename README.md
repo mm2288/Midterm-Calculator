@@ -4,9 +4,8 @@
 To work on this project as a team, it required a lot of communication between the two of us. We worked simultaneously via Zoom often utilizing the remote control function, researched the project with one another, and spoke through our coding. Github was utilized for committing code and having it saved somewhere other than our local machines and to give us the ability to track our changes.
 <br>
 Here are some of our meetings, and the CSV file is also in this repository:
-![zoom1](images/zoom1.png?raw=true "Zoom 1")
 <br>
-https://raw.githubusercontent.com/mm2288/Midterm-Calculator/master/images/zoom2.png
+![image](https://raw.githubusercontent.com/mm2288/Midterm-Calculator/master/images/zoom2.png)
 <br>
 Github repository with code: https://github.com/Patricio-B/MidtermCalculator/tree/master
 <br>
