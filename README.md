@@ -5,7 +5,7 @@ To work on this project as a team, it required a lot of communication between th
 <br>
 Here are some of our meetings, and the CSV file is also in this repository:
 <br>
-![image](https://raw.githubusercontent.com/mm2288/Midterm-Calculator/master/images/zoom2.png)
+![Zoom1](https://github.com/mm2288/Midterm-Calculator/blob/master/zoom1.png?raw=true)
 <br>
 Github repository with code: https://github.com/Patricio-B/MidtermCalculator/tree/master
 <br>
