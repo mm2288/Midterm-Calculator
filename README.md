@@ -5,8 +5,9 @@ To work on this project as a team, it required a lot of communication between th
 <br>
 Here are some of our meetings, and the CSV file is also in this repository:
 <br>
-![Zoom1](https://github.com/mm2288/Midterm-Calculator/blob/master/zoom1.png?raw=true)
+<img src="images/zoom1.png">
 <br>
+<img src="https://raw.githubusercontent.com/mm2288/Midterm-Calculator/master/images/zoom2.png">
 Github repository with code: https://github.com/Patricio-B/MidtermCalculator/tree/master
 <br>
 We used three branches: master, patricio, and megan. Each of us worked in our individual branches, and would pull the changes from each other’s branches. Towards the end of the project, we made a mistake when committing, and in turn, used a new repository to show the final project. Welcome!
@@ -14,8 +15,6 @@ We used three branches: master, patricio, and megan. Each of us worked in our in
 <h2>Design Patterns and Extras</h2>
 
 <b>Events:</b> We used events to pass around the information the user gave to the calculator. The input is sent to the calculator with these events. 
-<br>
-
 https://www.completecsharptutorial.com/basic/c-multicast-delegates-tutorial-with-programming-example.php
 <br>
 https://www.intertech.com/c-sharp-tutorial-understanding-c-events/
